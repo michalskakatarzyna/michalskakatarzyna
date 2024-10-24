@@ -25,13 +25,12 @@ Power Apps, Power Automate
 Git, JIRA, Confluence
 
 
-
+<!--
 ### :bar_chart: Portfolio Projects:
 
 **[First project]:** Brief description of project. [Link to project]
 
-**[Second project]:** Brief description of another project. [Link to project]
-
+**[Second project]:** Brief description of another project. [Link to project]  -->
 
 
 ### :handshake: Connect with me:
