@@ -30,11 +30,11 @@ I'm a Business Intelligence Consultant dedicated to transforming data into actio
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
 
-<!--
 ### :bar_chart: Portfolio Projects:
 
-**[First project]:** Brief description of project. [Link to project]
+**[Employee Attrition Analysis](https://github.com/michalskakatarzyna/Employee-Attrition/)** The analysis performed using SQL focuses on understanding the factors influencing attrition rates, including salary, job level, performance and demographic information. The insights gained aim to identify the most problematic groups at risk of higher turnover and provide actionable recommendations to improve employee retention strategies. This analysis utilizes a fictional dataset developed by IBM data scientists, available on Kaggle.
 
+<!--
 **[Second project]:** Brief description of another project. [Link to project]  -->
 
 
